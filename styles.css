@@ -211,3 +211,9 @@ main {
     .tooltip.show {
         display: block;
     }
+
+.clickable-word:active,
+.clickable-word:focus {
+    text-decoration: none; /* Tıklandığında altı çizili olmayacak */
+    color: inherit; /* Renk değişmeyecek, varsayılan rengi koruyacak */
+}
