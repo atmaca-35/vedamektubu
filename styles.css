@@ -88,11 +88,13 @@ main {
   line-height: 1.6;
   white-space: pre-line;
   color: #f0f0f0;
+  font-family: Tahoma, -apple-system, "Helvetica Neue", Helvetica, Roboto, sans-serif;
 }
 
 .result .highlight {
   font-weight: bold;
   color: #2d6536;
+  font-family: Tahoma, -apple-system, "Helvetica Neue", Helvetica, Roboto, sans-serif;
 }
 
 .word-count {
@@ -103,6 +105,7 @@ main {
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
+  font-family: Tahoma, -apple-system, "Helvetica Neue", Helvetica, Roboto, sans-serif;
 }
 
 .word-count .highlight {
@@ -174,6 +177,7 @@ main {
     color: #e9d677;
     cursor: pointer;
     text-decoration: none; /* Varsayýlan olarak altý çizili olmasýn */
+    font-family: Tahoma, -apple-system, "Helvetica Neue", Helvetica, Roboto, sans-serif;
 }
 
     .clickable-word:active,
@@ -190,6 +194,7 @@ main {
     border-radius: 10px;
     color: #f0f0f0;
     display: none;
+    font-family: Tahoma, -apple-system, "Helvetica Neue", Helvetica, Roboto, sans-serif;
 }
 
 .tooltip {
